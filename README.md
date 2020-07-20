@@ -1,7 +1,9 @@
-[![Linkedin Badge](https://img.shields.io/badge/-rodrigomariamorgao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigomariamorgao)](https://www.linkedin.com/in/rodrigomariamorgao)
-[![](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/release/python-365/)
-[![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rodrigomariamorgao/portfolio_data_science/issues)
+[![Linkedin Badge](https://img.shields.io/badge/-rodrigomariamorgao-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomariamorgao)
+[![Medium Badge](https://badgen.net/badge/icon/rodrigomariamorgao?icon=medium&label)](https://medium.com/@rodrigomariamorgao)
+
+<p align="center">
+  <img src="https://github.com/rodrigomariamorgao/portfolio_data_science/raw/master/banner2.png" >
+</p>
 
 # Rodrigo Maria Morgão
 <sub>*Software Developer* na Azion</sub> | <sub>*Data Science Student* na Sigmoidal</sub>
