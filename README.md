@@ -33,3 +33,10 @@ Na trajetória acadêmica, trabalhei em projetos de pesquisa nos campi IFRS Rest
 * [**Série aprendendo_python**](https://medium.com/@rodrigomariamorgao/aprendendo-python-01-vari%C3%A1veis-5fd4298fa4e2?source=your_stories_page---------------------------)
 * [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/rodrigomariamorgao/portfolio_data_science/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 * [**QODA Maratona Data Science**](https://github.com/rodrigomariamorgao/qoda-maratona-data-science)
+
+<div align="center">
+  <a href="https://github.com/rodrigomariamorgao">
+  <img align="center" height="250" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomariamorgao&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" height="250" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rodrigomariamorgao&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Braydon's GitHub Stats" />
+  </a>
+</div>
