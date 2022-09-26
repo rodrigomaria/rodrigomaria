@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-rodrigomaria-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomaria)
+[![Linkedin Badge](https://img.shields.io/badge/-rodrigomariadev-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomariadev)
 [![Medium Badge](https://badgen.net/badge/icon/rodrigomaria?icon=medium&label)](https://medium.com/@rodrigomaria)
 ![](https://komarev.com/ghpvc/?username=rodrigomaria&color=red)
 
@@ -21,8 +21,8 @@ Academicamente atuei em projetos de pesquisa nos campi do IFRS Restinga e Porto 
 
 **Perfis:**
 * [Linktree](https://linktr.ee/rodrigomaria)
-* [LinkedIn](https://www.linkedin.com/in/rodrigomaria)
-* [Medium](https://medium.com/@rodrigomaria)
+* [LinkedIn](https://www.linkedin.com/in/rodrigomariadev)
+* [Medium](https://medium.com/@rodrigomariadev)
 * [Dev](https://dev.to/rodrigomaria)
 
 ## Projetos e Publicações:
