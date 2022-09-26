@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=rodrigomaria&color=red)
 
 <p align="center">
-  <img src="https://github.com/rodrigomaria/portfolio_data_science/raw/master/banner.png" >
+<!--   <img src="https://github.com/rodrigomaria/portfolio_data_science/raw/master/banner.png" > -->
 </p>
 
 # Rodrigo Maria
