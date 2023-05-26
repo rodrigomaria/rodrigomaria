@@ -9,9 +9,7 @@
 # Rodrigo Maria
 ### *Software Engineer Team Lead* na Azion | *Data Science Student* na Sigmoidal
 
-Casado e pai de dois filhos lindos. Atuo como Software Engineer Team Lead na [Azion](https://www.azion.com) e estudante de Data Science na escola de Data Science e Machine Learning [Sigmoidal](https://sigmoidal.ai).
-
-Tenho 20 anos de experiência profissional atuando nas áreas de suporte à TI, artes visuais e desenvolvimento de sistemas, atuando como prestador de suporte em ambientes Windows e MacOS, edição de vídeo e análise/programação de sistemas utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
+Casado e pai de dois filhos lindos. Atuo como Software Engineer Team Lead na [Azion](https://www.azion.com). Tenho 20 anos de experiência profissional atuando nas áreas de suporte à TI, artes visuais e desenvolvimento de sistemas, atuando como prestador de suporte em ambientes Windows e MacOS, edição de vídeo e análise/programação de sistemas utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
 
 Academicamente atuei em projetos de pesquisa nos campi do IFRS Restinga e Porto Alegre utilizando linguagens Java e Python. Também adquiri conhecimentos nas linguagens Java, C, C++, C# e React Native durante os períodos de graduação.
 
@@ -30,7 +28,7 @@ Academicamente atuei em projetos de pesquisa nos campi do IFRS Restinga e Porto 
 * [**Analisando a Violência no Rio de Janeiro**](https://github.com/rodrigomaria/portfolio_data_science/blob/master/Analisando_a_Violencia_RJ.ipynb)
 * [**Panorama de casos do COVID-19 no Brasil - 06/2020**](https://github.com/rodrigomaria/portfolio_data_science/blob/master/Panorama_de_casos_do_COVID_19_no_Brasil_06_2020.ipynb)
 * [**Análise de dados Pulseira MiBand**](https://github.com/rodrigomaria/portfolio_data_science/tree/master/streamlit_miband)
-* [**Série aprendendo_python**](https://medium.com/@rodrigomaria/aprendendo-python-01-vari%C3%A1veis-5fd4298fa4e2?source=your_stories_page---------------------------)
+* [**Série aprendendo_python**](https://medium.com/@rodrigomariadev/aprendendo-python-01-vari%C3%A1veis-5fd4298fa4e2?source=your_stories_page---------------------------)
 * [**Detecção de Fraudes em Cartões de Crédito**](https://github.com/rodrigomaria/portfolio_data_science/blob/master/Detec%C3%A7%C3%A3o_de_Fraude_em_Cart%C3%B5es_de_Cr%C3%A9dito.ipynb)
 * [**QODA Maratona Data Science**](https://github.com/rodrigomaria/qoda-maratona-data-science)
 
