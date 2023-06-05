@@ -1,5 +1,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rodrigomariadev-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigomariadev)
-[![Medium Badge](https://badgen.net/badge/icon/rodrigomaria?icon=medium&label)](https://medium.com/@rodrigomaria)
+[![Medium Badge](https://badgen.net/badge/icon/rodrigomariadev?icon=medium&label)](https://medium.com/@rodrigomariadev)
 ![](https://komarev.com/ghpvc/?username=rodrigomaria&color=red)
 
 <p align="center">
