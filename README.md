@@ -7,15 +7,15 @@
 </p>
 
 # Rodrigo Maria
-### *Software Engineer Team Lead* na Azion | *Data Science Student* na Sigmoidal
+### *Software Engineer Team Lead* na Azion
 
-Pai de dois filhos lindos. Atuo como Software Engineer Team Lead na [Azion](https://www.azion.com). Tenho 20 anos de experiência profissional atuando nas áreas de suporte à TI, artes visuais e desenvolvimento de sistemas, atuando como prestador de suporte em ambientes Windows e MacOS, edição de vídeo e análise/programação de sistemas utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
+Pai de dois filhos lindos. Atuo como Software Engineering Team Lead na [Azion](https://www.azion.com). 21 anos de experiência profissional atuando nas áreas de suporte à TI, artes visuais e desenvolvimento de sistemas, atuando como prestador de suporte em ambientes Windows e MacOS, edição de vídeo e análise/programação de sistemas utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
 
 Academicamente atuei em projetos de pesquisa nos campi do IFRS Restinga e Porto Alegre utilizando linguagens Java e Python. Também adquiri conhecimentos nas linguagens Java, C, C++, C# e React Native durante os períodos de graduação.
 
 [CV Lattes](http://lattes.cnpq.br/5523615522413408)
 
-**Hard Skills:** Python, JavaScript, SQL.
+**Hard Skills:** Python, Git, Docker, JavaScript, SQL.
 
 **Perfis:**
 * [Linktree](https://linktr.ee/rodrigomaria)
