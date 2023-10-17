@@ -2,12 +2,12 @@
 [![Medium Badge](https://badgen.net/badge/icon/rodrigomariadev?icon=medium&label)](https://medium.com/@rodrigomariadev)
 ![](https://komarev.com/ghpvc/?username=rodrigomaria&color=red)
 
-<p align="center">
-<!--   <img src="https://github.com/rodrigomaria/portfolio_data_science/raw/master/banner.png" > -->
-</p>
+<!--   <p align="center">
+<img src="https://github.com/rodrigomaria/portfolio_data_science/raw/master/banner.png" >
+</p> -->
 
 # Rodrigo Maria
-### *Software Engineer Team Lead* na Azion
+### *Software Engineering Team Lead* na Azion
 
 Pai de dois filhos lindos. Atuo como Software Engineering Team Lead na [Azion](https://www.azion.com). 21 anos de experiência profissional atuando nas áreas de suporte à TI, artes visuais e desenvolvimento de sistemas, atuando como prestador de suporte em ambientes Windows e MacOS, edição de vídeo e análise/programação de sistemas utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
 
