@@ -7,15 +7,15 @@
 </p> -->
 
 # Rodrigo Maria
-### *Software Engineering Team Lead* na Azion
+### *Senior Data Platform Engineer* na Azion
 
-Pai de dois filhos lindos. Atuo como Software Engineering Team Lead na [Azion](https://www.azion.com). 21 anos de experiência profissional atuando nas áreas de suporte à TI, artes visuais e desenvolvimento de sistemas, atuando como prestador de suporte em ambientes Windows e MacOS, edição de vídeo e análise/programação de sistemas utilizando linguagens de programação Python, JavaScript e SQL, metodologia BPM e criação de dashboards de BI.
+Pai de dois filhos lindos. Senior Data Platform Engineer na Azion. Maratonista.
 
-Academicamente atuei em projetos de pesquisa nos campi do IFRS Restinga e Porto Alegre utilizando linguagens Java e Python. Também adquiri conhecimentos nas linguagens Java, C, C++, C# e React Native durante os períodos de graduação.
+Faço parte do time Data AI Routing, contribuindo com minha experiência no desenvolvimento de aplicações back-end utilizando Python, Django e outras ferramentas, além de habilidades em criação de pipelines CI/CD com GitHub Actions e deploy de aplicações em ambientes Kubernetes.
 
 [CV Lattes](http://lattes.cnpq.br/5523615522413408)
 
-**Hard Skills:** Python, Git, Docker, JavaScript, SQL.
+**Skills:** Liderança · Python · BPMN · Google Workspace · Django · JavaScript · Linux · Docker · Kubernetes · Agile · Postman API · Scrum · Metodologias ágeis · Django REST Framework · JIRA · Desenvolvimento de software · Git · MySQL · Resolução de problemas.
 
 **Perfis:**
 * [Linktree](https://linktr.ee/rodrigomaria)
